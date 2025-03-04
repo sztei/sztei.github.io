@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sztei.csgad.com/cbZ/sitemap.xml.gz
